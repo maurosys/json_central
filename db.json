@@ -1,0 +1,294 @@
+{
+    "RETORNO": [
+        {
+            "DOCUMENTO": 6000005402,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 174.269,50",
+            "CENTRO": "",
+            "REQUISITANTE": "Thaiz Salvi",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "27/11/2019",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "MUSALLAM TRADING CO"
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "02/12/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005410,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 42.310,57",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "12/05/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "CIRKEL DIRECT SALES N.V."
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "24/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005422,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 33.742,42",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "22/06/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 2500
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "MONTANA S/A"
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "14/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005423,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 58.666,75",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "22/06/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 2500
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "MONTANA S/A"
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "19/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005424,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 41.664,00",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "22/06/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "AL YASRA FOOD CO"
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "25/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005425,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  3",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 179.649,26",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "22/06/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1930
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "UNITED FOOD SERVICES"
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "04/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005440,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 200.874,50",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "10/09/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "SAEED NOMAN AL-MEKHLAFI CORP."
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "01/03/2020"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005441,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 156.477,00",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "10/09/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "SAEED NOMAN AL-MEKHLAFI CORP."
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "02/12/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005442,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 200.874,50",
+            "CENTRO": "",
+            "REQUISITANTE": "Charlay Parize",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "10/09/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 1910
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "SAEED NOMAN AL-MEKHLAFI CORP."
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "08/01/2020"
+                }
+            ],
+            "PROCESSO": "PV"
+        },
+        {
+            "DOCUMENTO": 6000005483,
+            "ITEM": "",
+            "FORNECEDOR": "",
+            "MATERIAL": "",
+            "QTD": "                  1",
+            "VLUNIT": "",
+            "VLITEM": "",
+            "VLDOC": "USD 44.814,60",
+            "CENTRO": "",
+            "REQUISITANTE": "Matheus Suzena da Ro",
+            "TIPO": "PV",
+            "DATA_EMISSAO": "14/10/2020",
+            "ADICIONAIS": [
+                {
+                    "CAMPO": "Empresa",
+                    "VALOR": 2500
+                },
+                {
+                    "CAMPO": "Nome Conta Crédito",
+                    "VALOR": "WILDGATE PRODUCTION LTD."
+                },
+                {
+                    "CAMPO": "Novo vencimento da S",
+                    "VALOR": "30/11/2019"
+                }
+            ],
+            "PROCESSO": "PV"
+        }
+    ]
+}
